@@ -1,0 +1,6 @@
+{
+  "name": "WafaVerse",
+  "description": "WafaVerse: Bangladesh Ultimate Adventure - Premium offline-first native Android game platform by Mehedi364.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="72dp"
+        android:height="72dp"
+        android:drawable="@drawable/ic_wafaverse_launcher_1791259243354"
+        android:gravity="center" />
+</layer-list>
